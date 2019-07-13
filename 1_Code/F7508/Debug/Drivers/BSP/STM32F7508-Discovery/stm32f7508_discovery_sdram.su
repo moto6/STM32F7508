@@ -1,0 +1,10 @@
+stm32f7508_discovery_sdram.c:205:6:BSP_SDRAM_Initialization_sequence	40	static
+stm32f7508_discovery_sdram.c:267:9:BSP_SDRAM_ReadData	8	static
+stm32f7508_discovery_sdram.c:286:9:BSP_SDRAM_ReadData_DMA	8	static
+stm32f7508_discovery_sdram.c:305:9:BSP_SDRAM_WriteData	8	static
+stm32f7508_discovery_sdram.c:324:9:BSP_SDRAM_WriteData_DMA	8	static
+stm32f7508_discovery_sdram.c:341:9:BSP_SDRAM_Sendcmd	8	static
+stm32f7508_discovery_sdram.c:359:13:BSP_SDRAM_MspInit	72	static
+stm32f7508_discovery_sdram.c:130:9:BSP_SDRAM_Init	16	static
+stm32f7508_discovery_sdram.c:450:13:BSP_SDRAM_MspDeInit	8	static
+stm32f7508_discovery_sdram.c:179:9:BSP_SDRAM_DeInit	8	static

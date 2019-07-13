@@ -1,0 +1,13 @@
+stm32f7508_discovery_qspi.c:735:16:QSPI_AutoPollingMemReady.constprop	88	static
+stm32f7508_discovery_qspi.c:689:16:QSPI_WriteEnable.constprop	88	static
+stm32f7508_discovery_qspi.c:178:9:BSP_QSPI_Read	72	static
+stm32f7508_discovery_qspi.c:224:9:BSP_QSPI_Write	80	static
+stm32f7508_discovery_qspi.c:298:9:BSP_QSPI_Erase_Block	64	static
+stm32f7508_discovery_qspi.c:340:9:BSP_QSPI_Erase_Chip	64	static
+stm32f7508_discovery_qspi.c:380:9:BSP_QSPI_GetStatus	72	static
+stm32f7508_discovery_qspi.c:433:9:BSP_QSPI_GetInfo	0	static
+stm32f7508_discovery_qspi.c:449:9:BSP_QSPI_EnableMemoryMappedMode	72	static
+stm32f7508_discovery_qspi.c:494:13:BSP_QSPI_MspInit	72	static
+stm32f7508_discovery_qspi.c:108:9:BSP_QSPI_Init	88	static
+stm32f7508_discovery_qspi.c:560:13:BSP_QSPI_MspDeInit	8	static
+stm32f7508_discovery_qspi.c:155:9:BSP_QSPI_DeInit	16	static

@@ -1,0 +1,8 @@
+stm32f7508_discovery_ts.c:130:9:BSP_TS_Init	8	static
+stm32f7508_discovery_ts.c:160:9:BSP_TS_DeInit	0	static
+stm32f7508_discovery_ts.c:170:9:BSP_TS_ITConfig	32	static
+stm32f7508_discovery_ts.c:195:9:BSP_TS_ITGetStatus	0	static
+stm32f7508_discovery_ts.c:326:9:BSP_TS_Get_GestureId	24	static
+stm32f7508_discovery_ts.c:206:9:BSP_TS_GetState	120	static
+stm32f7508_discovery_ts.c:370:6:BSP_TS_ITClear	0	static
+stm32f7508_discovery_ts.c:388:9:BSP_TS_ResetTouchData	0	static

@@ -1,0 +1,9 @@
+stm32_adafruit_sd.c:989:9:SD_ReadData	8	static
+stm32_adafruit_sd.c:780:22:SD_SendCmd	40	static
+stm32_adafruit_sd.c:1010:9:SD_WaitData.constprop	8	static
+stm32_adafruit_sd.c:286:9:BSP_SD_Init	40	static
+stm32_adafruit_sd.c:306:9:BSP_SD_GetCardInfo	56	static
+stm32_adafruit_sd.c:341:9:BSP_SD_ReadBlocks	48	static
+stm32_adafruit_sd.c:426:9:BSP_SD_WriteBlocks	56	static
+stm32_adafruit_sd.c:511:9:BSP_SD_Erase	32	static
+stm32_adafruit_sd.c:548:9:BSP_SD_GetCardState	24	static
