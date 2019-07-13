@@ -1,5 +1,5 @@
 # 
-## 0. 
+## 0. STM32F7508-Discovery kit 하드웨어 분석
  > 이 문서에서는 [STM32F7508-Discovery kit](https://www.st.com/en/evaluation-tools/stm32f7508-dk.html) 학습을 위한 기본적인 하드웨어 이해에 대하여 다룹니다
   ```
   - 이 글에서는 ST에서 제공하는 회로도를 기준으로 분석합니다
