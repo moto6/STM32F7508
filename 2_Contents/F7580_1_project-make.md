@@ -85,21 +85,58 @@
     - ![sd](../img/20190712-no001.png)
   - 사진속의 두가지 파일을 filesystem 상에서 삭제 합니다
     - ![sd](../img/20190712-no002.png)
-  - 아래 사진과 같이 마우스 오른쪽 버튼을 눌러 Delete버튼 클릭ㅉ
+  - 아래 사진과 같이 마우스 오른쪽 버튼을 눌러 Delete버튼 클릭하여 삭제합니다
     - ![sd](../img/20190712-no003.png)
-  - 이제 메인함수를 살짝 변경해 LED Blinky 예제로 만들어 보겠습니다
-    - ![sd](../img/20190712-no004.png)
-  - ㄴㅇ
+  - 프로젝트를 다시 빌드하여 문제없이 프로젝트 빌드 성공을 확인합니다
     - ![sd](../img/20190712-no005.png)
+  - 혹시나 해당 에러가 발생한다면 위의 항목 중 "이떄 주의사항은 꼭 xx.h/xx.c파일이 담겨있는 디렉토리를 인클루드 해야 합니다" 항목으로 돌아가서 다시 폴더를 인클루드 합니다
     - ![sd](../img/20190712-no006.png)
+  - 아래 사진속의 프로젝트 설정 창에서도 확인이 가능합니다  
     - ![sd](../img/20190712-no007.png)
-    - ![sd](../img/20190712-no008.png)
+  - 빌드 성공을 확인
     - ![sd](../img/20190712-no009.png)
+  
+  - 이제 메인함수를 살짝 변경해 LED Blinky 예제로 만들어 보겠습니다
+  - RTOS부분을 삭제해줍니다. 당분간은 Firmware 레벨의 코드를 제작 및 테스트 하므로  RTOS부분을 제거하거나 주석처리 합니다.
+  - 아래 코드는 프로그램의 실행 흐름에서 제거 되어야 할 부분입니다
+    ```c
+      MX_ADC3_Init();
+      MX_CRC_Init();
+      MX_DCMI_Init();
+      MX_DMA2D_Init();
+      MX_ETH_Init();
+      MX_FMC_Init();
+      MX_I2C1_Init();
+      MX_I2C3_Init();
+      MX_LTDC_Init();
+      MX_QUADSPI_Init();
+      MX_RTC_Init();
+      MX_SAI2_Init();
+      MX_SDMMC1_SD_Init();
+      MX_SPDIFRX_Init();
+      MX_SPI2_Init();
+      MX_TIM1_Init();
+      MX_TIM2_Init();
+      MX_TIM3_Init();
+      MX_TIM5_Init();
+      MX_TIM8_Init();
+      MX_TIM12_Init();
+      MX_USART1_UART_Init();
+      MX_USART6_UART_Init();
+    ```
+    - ![sd](../img/20190712-no004.png)
+  - 사용하지 않는 Peri들의 초기화 코드를 일단 주석처리를 합니다.
+    - ![sd](../img/20190712-no011.png)  
+  - LED 관련 깜빡이는 코드를 작성합니다. 이 코드는 BSP함수를 그대로 이용합니다
+  - 아래 코드는 LED 점멸 동작을 위해 필수적으로 포함 해야 할 코드 입니다
+    ```cpp
+    BSP_LED_Init(LED1); // LED의 초기화
+    BPP_LED_On(LED1); // LED On
+    BSP_LED_Off(LED1); // LED Off
+    BSP_LED_Toggle(LED1); // LED Toggle
+    HAL_Delay(999); //Delay 함수
+    ```
     - ![sd](../img/20190712-no010.png)
-    - ![sd](../img/20190712-no011.png)
-    - ![sd](../img/20190712-no012.png)
-    - ![sd](../img/20190712-no013.png)
-    - ![sd](../img/20190712-no014.png)
-    - ![sd](../img/20190712-no015.png)
-
+  - 이후 디버깅모드 진입 -> 프로그램 실행을 통해 LED점멸 동작을 확인합니다
+  
 
