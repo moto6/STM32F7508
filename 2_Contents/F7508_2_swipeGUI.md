@@ -7,6 +7,9 @@
   - [TOUCHGFX 유툽 동영상](https://www.youtube.com/watch?time_continue=17&v=X20f1ag2x4Q)
   - [TOUCH GFX 유툽 체널](https://www.youtube.com/channel/UCPmAQbY9KbHqdQ_GwUGg1bA)
   - [STMicro사 유툽 체널](https://www.youtube.com/user/STonlineMedia)
+ ### 실습결과 
+  - [결과물 동영상 1 - 전자공작 카페](https://cafe.naver.com/circuitsmanual/213572) 
+  - [결과물 동영상 2 - 전자공작 카페](https://cafe.naver.com/circuitsmanual/213571)
  #
  ## 
 - ![](../img/20190724-no002.png)
@@ -32,3 +35,8 @@
 - ![](../img/20190724-no022.png)
 - ![](../img/20190724-no023.png)
 - ![](../img/20190724-no024.png)
+- ![](../img/20190724-no025.png)
+- ![](../img/20190724-no026.png)
+- ![](../img/20190724-no027.png)
+- ![](../img/20190724-no028.png)
+- ![](../img/20190724-no029.png)
