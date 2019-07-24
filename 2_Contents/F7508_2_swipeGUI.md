@@ -1,5 +1,5 @@
 # 
-## 2. STM32F7508-Discovery Swipe GUI 만들기  
+## 1. STM32F7508-Discovery Swipe GUI 만들기  
   - [목차로 돌아가기](https://github.com/d-h-k/STM32F7508#%EB%AA%A9%EC%B0%A8-index)
  ### 설치가 필요한 것
   - [ST-LINK 설치 필수 !!!](https://my.st.com/content/my_st_com/en/products/development-tools/software-development-tools/stm32-software-development-tools/stm32-programmers/stsw-link004.license=1563552768058.product=STSW-LINK004.version=4.5.0.html)
