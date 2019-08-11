@@ -1,6 +1,7 @@
 # The Screen Concept and Model-View-Presenter
  - 번역 원문 [링크](https://touchgfx.zendesk.com/hc/en-us/articles/205717801-The-Screen-Concept-and-Model-View-Presenter)
  - 네이버 카페 전자공작 HID님 번역글 [링크](https://cafe.naver.com/circuitsmanual/213630)
+ - [QT vs MVP](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/doc_The%20Screen%20Concept%20and%20Model-View-Presenter.md#%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-qt%EC%99%80-mvp-%EB%B9%84%EA%B5%90)
  ### The Screen Concept and Model-View-Presenter (번역 : GUI 프로젝틔 컨셉과 MVP 기술) 
    - 이 글에서는 Microsoft사의 MVP기술과 TouchGFX 플랫폼이 동작하는 원리에 대하여 기술합니다.
    - 당장에 성과가 필요할때 읽기보다는 좀더 기술의 근본적 원리에 대하여 궁금한 분들이 읽으실때 도움이 됩니다.
