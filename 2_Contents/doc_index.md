@@ -46,4 +46,4 @@
   - #### [4 단계 : 스크롤 휠에 사용자 지정 동작 추가](https://touchgfx.zendesk.com/hc/en-us/articles/207282575-Step-4-Adding-custom-behavior-to-Scroll-Wheel)
   - #### [4 단계 : 스크롤 휠에 사용자 지정 동작 추가 - 번역]
 ## [튜토리얼 요약 - 원문](https://touchgfx.zendesk.com/hc/en-us/articles/360019548551-Tutorials-Summary)
-## [튜토리얼 요약 - 번역](tgfx_zendesk\Tutorials Summary.md)
+## [튜토리얼 요약 - 번역](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/tgfx_zendesk/Tutorials%20Summary.md)
