@@ -14,8 +14,8 @@
    5. [STM32F746 + TouchGFX + TrueSTUDIO - 바람](https://blog.naver.com/chcbaram/221591306345) ----- [Mirror](https://blog.naver.com/chcbaram/221591306345)
    6. [STM32F7 Discovery System Clock & GPIO - 제플린](https://cafe.naver.com/circuitsmanual/194406) ----- [Mirror](https://cafe.naver.com/circuitsmanual/194406)
  ## 3. 해외 자료 
-   2. []() ----- [Mirror]()
-   3. []() ----- [Mirror]()
+   2. [Tutorial 3: Applications with multiple screens](https://touchgfx.zendesk.com/hc/en-us/articles/360018667192-Step-1-Setting-up-the-two-Screens?mobile_site=true) ----- [Mirror](https://touchgfx.zendesk.com/hc/en-us/articles/360018667192-Step-1-Setting-up-the-two-Screens?mobile_site=true)
+   3. [touchgfx Docs](https://touchgfx.zendesk.com/hc/en-us/categories/200529271) ----- [Mirror](https://touchgfx.zendesk.com/hc/en-us/categories/200529271)
    4. []() ----- [Mirror]()
    5. []() ----- [Mirror]()
    6. []() ----- [Mirror]()
