@@ -12,20 +12,8 @@
  ## Firmware 관련
    0. [하드웨어 분석](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/F7508_0_sch_anlz.md)
    1. [프로젝트 생성 및 BSP가져오기](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/F7580_1_project-make.md)
-   2. [LED 동작 예제]//()
-   3. [Switch 동작 예제]//()
-   4. [LED-Switch 연동 예제]//()
-   5. [UART 통신 동작 예제]//()
-   6. [USB 통신 동작 예제]()
-   7. [LCD 기본동작 예제]()
-   8. 
-   
-   ## TouchGFX관련
-   1. [Swipe GUI 구현하기](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/F7508_2_swipeGUI.md)
-   
-   ## 학습이 도움이 될만한 자료들 모음
-   출처 : []()
-   @@
-   내용적기
-   @@@
-   
+ ## TouchGFX관련
+   - [Swipe GUI 구현하기](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/F7508_2_swipeGUI.md)
+   - [MVP 구조에 대한 설명](../2_Contents/doc_TheScreenConceptandModel-View-Presenter.md)
+   - [문서 목차](2_Contents\doc_index.md)
+   - [튜토리얼 요약](Tutorials_Summary.md)   
