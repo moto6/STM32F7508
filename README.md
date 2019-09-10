@@ -14,9 +14,9 @@
    1. [프로젝트 생성 및 BSP가져오기](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/F7580_1_project-make.md)
  ## TouchGFX관련
    - [Swipe GUI 구현하기](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/F7508_2_swipeGUI.md)
-   - [MVP 구조에 대한 설명](../2_Contents/doc_TheScreenConceptandModel-View-Presenter.md)
-   - [문서 목차](2_Contents\doc_index.md)
-   - [튜토리얼 요약](Tutorials_Summary.md)   
+   - [MVP 구조에 대한 설명](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/doc_TheScreenConceptandModel-View-Presenter.md)
+   - [문서 목차](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/doc_index.md)
+   - [튜토리얼 요약](https://github.com/d-h-k/STM32F7508/blob/master/2_Contents/Tutorials_Summary.md)   
  ## 샘플 프로젝트 (By 전자공작)
    - [Quest1 게시판](https://cafe.naver.com/ArticleList.nhn?search.clubid=18968931&search.menuid=1759&search.boardtype=L)
    - [Quest 게시판](https://cafe.naver.com/ArticleList.nhn?search.clubid=18968931&search.menuid=1761&search.boardtype=L)
