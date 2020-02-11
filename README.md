@@ -24,6 +24,6 @@
    - [Quest4 게시판](https://cafe.naver.com/ArticleList.nhn?search.clubid=18968931&search.menuid=1763&search.boardtype=L)
    - [Quest5 게시판](https://cafe.naver.com/ArticleList.nhn?search.clubid=18968931&search.menuid=1764&search.boardtype=L)
  ## 최종결과 : 원문(네이버 카페 전자공작 : https://cafe.naver.com/circuitsmanual/214004)
-   - ![사진1](./img/2112.jpg)
    - 준우승 ㅎㅎ!! 화웨이 와치를 받아버렸따!! : https://cafe.naver.com/circuitsmanual/214059
    - ![사진2](./img/resr.jpg)
+   - ![사진1](./img/1221.jpg)
